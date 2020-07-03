@@ -1,0 +1,47 @@
+body {
+    font-family: monospace;
+    background: green;  
+  }
+  .container {
+    margin: 40px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    background: lightgray;
+  }
+  #title {
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  h1 span {
+    border: 3px solid green;
+    border-radius: 20px;
+    padding: 15px;
+    background: skyblue;
+    
+  }
+  #image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:250px;  
+  }
+  #img-caption {
+    text-align: center;
+    font-size: 16px;
+  }
+  #main {
+    font-size: 18px;
+  }
+  #tribute-info {
+    padding: 20px;
+  }
+  a {
+    font-size: 14px;
+    color: black;
+  }
+  a:hover {
+    color: darkblue;
+  }
